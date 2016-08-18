@@ -1,3 +1,9 @@
+#####################################################################################
+# Syed F. Naeem
+# 18-8-2016
+# Programming assignment#02
+#####################################################################################
+
 #The first function, `makeCacheMatrix` creates a special " square matrix", which is
 #really a list containing a function to
 #1.  set the value of the matrix
